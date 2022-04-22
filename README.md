@@ -6,12 +6,7 @@ REST API utilizada -> SuperHero API: https://superheroapi.com/.
 
 puede ver la lista de super heroes: https://superheroapi.com/ids.html
 
-Pre-requisitos:
-XAMPP o cualquier entorno de Apache de tu preferencia.
-Wordpress.
-Instalación 
-
-<h4>Para subir el plugin wordpress contenido en el archivo .zip, seguiremos los siguientes pasos:</4>
+<h4>Para subir el plugin wordpress contenido en el archivo .zip, seguiremos los siguientes pasos:</h4>
 
 1. Iniciar sesión en nuestro entorno administrativo de wordpress /wp-admin/
 2. Una vez dentro del panel administrativo, dirigirnos al menú de plugins y hacer clic en añadir nuevo
