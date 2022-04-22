@@ -1,0 +1,44 @@
+h2#name {
+    font-size: 20px;
+    text-align: center;
+}
+img#imgSuper {
+    width: 100%;
+    border-radius: 16px;
+}
+div.cardSuper {
+    border-radius: 16px;
+    padding: 10px 10px;
+    width: 100%;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 10%);
+    background: #2a2a2a;
+    color: #fff;
+}
+h3#skills {
+    font-size: 16px;
+    font-weight: 500;
+}
+ul#skilsSuper {
+    list-style: none;
+    font-size: 14px;
+    line-height: 1;
+    padding-left: 0;	
+}
+h4#titleBiography {
+    font-size: 16px;
+    font-weight: 500;
+}
+p#biography {
+    font-size: 14px;
+    line-height: 1;
+    text-align: left;
+}
+div.imgSuper {
+    text-align: center;
+}
+div.mainSuper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px 20px;
+    margin: 20px 0px;
+}
